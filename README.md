@@ -9,3 +9,9 @@ It also automatically extracts any bash script code from the AIs answers and sav
 Enjoy it, it comes in handy
 
 ChatNBX aka tune.chat api key is free to use if you signup on their webite and create your api key. 
+
+I use an alias command 
+alias Ask="python AskProfessorBash.py" 
+Ask my bash script question 
+
+and it returns the answers to my questions directly in bash without having to leave to look up answers to my questions. And it'll also generate and automatically run any bash code generated in the LLM answers. Comes in handy 
