@@ -53,7 +53,7 @@ def execute_bash_script(file_name):
 
 url = "https://chat.tune.app/api/chat/completions"
 headers = {
-    "Authorization": "tune-faa88cbb-18f8-4a97-a909-b1fae72430c81710549351",
+    "Authorization": "your chatnbx chat tune api key",
     "Content-Type": "application/json"
 }
 model = "goliath-120b-16k-gptq"
